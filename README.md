@@ -1,5 +1,4 @@
-# LSTM-for-low-flow-hydrological-time-series-forecasting
-## for Low-Flow Hydrological Time Series Forecasting
+# LSTM-for-low-flow-hydrological-time-series-forecasting for Low-Flow Hydrological Time Series Forecasting
 **Reproduction et adaptation de l’étude :**  
 *Sahoo et al. (2019), Acta Geophysica*
 
